@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h2>UNC Basketball Team Roster</h2>
+    
+    <table class="table table-striped" width="647">
+    <thead>
+    <tr>
+    <th>#</th>
+    <th>Name</th>
+    <th>Position</th>
+    <th>Height</th>
+    <th>Weight</th>
+    <th>Year</th>
+    <th>Hometown</th>
+    </tr>
+    </thead>
+    <tbody>
+        {% for player in players %}
+    <tr>
+    <td>{{ player.number }}</td>
+    <td><a href="{{ player.id }}"> {{ player.name }}</td>
+    <td>{{ player.position }}</td>
+    <td>{{ player.height }}</td>
+    <td> {{ player.weight }}</td>
+    <td> {{ player.year }}</td>
+    <td> {{ player.hometown }}</td>
+    </tr>
+    
+    {% endfor %}
+    </tbody>
+    </table>
+
+
+    
+
+
+{% endblock %}

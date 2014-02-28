@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container">
+<div class="row">
+<div class="rowplayer">
+    <h2>{{ player.name }}</h2>
+</div>
+</div>
+    </div>
+<div class="row">
+    <div class="col-md-4">
+        <ul>
+            <img src= "{{ player.image }}"/>
+        </ul>
+    </div>
+    <div class="col-md-8">
+        <div class="list-unstyled">
+            <li><b>Number:</b> {{ player.number }}</li>
+            <li><b>Position:</b> {{ player.position }}</li>
+            <li><b>Height:</b> {{ player.height }}</li>
+            <li><b>Weight:</b> {{ player.weight }}</li>
+            <li><b>Year:</b> {{ player.year }} </li>
+            <li><b>Hometown:</b> {{ player.hometown }}</li>
+            <li><b>Prep:</b> {{ player.prep }}</li>
+            <li><b>Personal:</b> {{ player.personal }}</li>
+        </ul>
+    </div>
+</div>
+</div>
+</div>
+{% endblock %}

@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h2>UNC Basketball Team</h2>
+    <ul>
+    {% for player in players %}
+    {# Each "player" is a player model object. #}
+    <li><a href="{{ player.id }}"> {{ player.name }}</a> | {{ player.number }} | {{ player.position }} | {{ player.height }}  | {{ player.weight }} | {{ player.year }} | {{ player.hometown }}</li>
+{% endfor %}
+    </ul>
+    
+
+
+{% endblock %}

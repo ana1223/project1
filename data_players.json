@@ -1,0 +1,243 @@
+[
+    {
+        "pk": 1, 
+        "model": "roster.Player", 
+        "fields": {
+            "name": "Nate Britt", 
+            "image": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/LQ/LQECGSDXZIQBQGO.20130926152408.jpg",
+            "number": "0", 
+            "position": "G", 
+            "height": "5-11",
+            "weight": "165",
+            "year": "Fr",
+            "hometown": "Upper Marlboro, Md.",
+            "prep": "Attended Oak Hill Academy as a senior and played for coach Steve Smith. Missed two months of his senior season due to a torn meniscus in his right knee. Had surgery on Dec. 26, 2012, and returned to action in early February. Averaged 6.7 points and 5.0 assists in 25 games for Oak Hill. Played three seasons at Gonzaga College High School in Washington, D.C., where he played for coach Steve Turner. Washington Post first-team all-Met as a sophomore and second-team as a junior. Played for the U-18 USA team in 2012 and competed in Brazil. Was the Gatorade Player of the Year in Washington, D.C., in 2011. Also played three years of soccer and football.",
+            "personal": "Born Nathaniel C. Britt II on Jan. 13, 1994, in Washington, D.C. Son of Nathaniel and Melody Britt. Has yet to declare a major."
+        }
+    }, 
+    {
+        "pk": 2, 
+        "model": "roster.Player", 
+        "fields": {
+            "name": "Leslie McDonald", 
+            "image": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/BY/BYHDQZKNESRMRJM.20130926152409.jpg",
+            "number": "2", 
+            "position": "G", 
+            "height": "6-5",
+            "weight": "215",
+            "year": "Sr.",
+            "hometown": "Memphis, Tenn.",
+            "prep": "Played for Coach John Harrington at Briarcrest Christian High School in Eads, Tenn. Two-time Tennessee Division 2 AA Mr. Basketball. All-time leading scorer in Memphis private school history with 2,353 points. Also set the school career mark with 875 rebounds. Started 129 of 133 games at Briarcrest. Averaged 20.7 points, 6.5 rebounds and 2.3 assists as a senior. Averaged 21.5 points as a junior. Led Briarcrest to the state title in 2008. Scored a single-game best 37 points as a sophomore. Won Gatorade Player of the Year honors in Tennessee in 2008. Also earned prep Academic All-America honors. Member of the drama and art clubs. Played for Team USA in Nike Hoop Summit in Oregon. Also earned fourth-team All-America honors from Parade magazine. Played for the USA U18 National Team in the 2008 FIBA Americas Championships in Argentina.",
+            "personal": "Born Leslie Vernard McDonald on Feb. 4, 1991, in Memphis. Son of Leslie Sr. and Wanda McDonald. Majoring in communication studies."
+        }
+    },  {
+        "pk": 3, 
+        "model": "roster.Player", 
+        "fields": {
+            "name": "Kennedy Meeks", 
+            "image": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/DS/DSCHGGZLHOJCHQO.20130926152409.jpg",
+            "number": "3", 
+            "position": "F", 
+            "height": "6-9",
+            "weight": "290",
+            "year": "Fr.",
+            "hometown": "Charlotte, N.C.",
+            "prep": "Attended West Charlotte High School, where he played for coach Baronton Terry. A McDonald's All-America. Also played in the Jordan Brand Classic and the Nike Global Challenge. Three-time all-state selection. Helped lead West Charlotte to a 78-13 record over the last three seasons. Won the state title in 2011, earning MVP honors after grabbing 19 rebounds in the championship game. Averaged 19 points, 16 rebounds and three blocks as a senior. Scored 20 or more points seven times. Grabbed 20 or more rebounds four times. Had three games as a senior with 20 plus points and rebounds. Also lettered in tennis for three seasons at West Charlotte. Honor student in each of his last three years.",
+            "personal": "Born Kennedy Rashod Meeks on Feb. 5, 1995, in Charlotte. Son of Nokhia Meeks and Dana Hobbs. Has yet to declare a major."
+        }
+    },
+    {
+        "pk": 4,
+        "model": "roster.Player", 
+        "fields": {
+            "name": "Luke Davis", 
+            "image": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/TK/TKKLSKWDDCEVSES.20130926152408.jpg",
+            "number": "4", 
+            "position": "G", 
+            "height": "6-0",
+            "weight": "175",
+            "year": "Jr.",
+            "hometown": "Raleigh, N.C.",
+            "prep": "Played for Coach Kevin Billerman at Ravenscroft High School. Earned first-team Class 3A NCISAA all-state honors as a senior. Earned first-team All-Area honors for private schools from TriangleHoops.com. TISA Conference Player of the Year. First-team all-area by HighSchoolOT.com. Helped lead Ravenscroft to the state finals as a junior. Teamed with future Duke forward Ryan Kelly. Earned All-Conference honors and was named to the All-Tournament team at the prestigious GlaxoSmithKline Holiday Invitational in Raleigh two times. Also attended Broughton High School where he led the Caps in scoring with 14.7 points per game in 2008. Named Cap-7 Conference Player of the Year and first-team All-District 5.",
+            "personal": "Double-majoring in sociology and communication studies. Luke Dickson Davis is the son of Pete and Debbie Davis. Born on April 9, 1991, in Raleigh. His father played professional basketball in Greece. His older brother attended UNC. His younger brother plays football at NC State."
+        }
+    },
+    {
+        "pk": 5,
+        "model": "roster.Player", 
+        "fields": {
+            "name": "Marcus Paige", 
+            "image": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/XP/XPOFAXKPOHMNEVY.20130926152409.jpg",
+            "number": "5", 
+            "position": "G", 
+            "height": "6-1",
+            "weight": "175",
+            "year": "So.",
+            "hometown": "Marion, Iowa",
+            "prep": "Played for coach Chris Robertson at Linn-Mar High School in his hometown of Marion, Iowa. Parade All-American. Played in the McDonald's All-Star Game. Invited to play in the Jordan Brand Classic and Nike Hoop Summit but was unable to play due to a stress fracture in his left food. Averaged 28.1 points as a senior, leading a young team to a 20-6 record and the semifinals of the state tournament. Set the school's career scoring record. Scored a personal-best 49 points against CR Kennedy in the state playoffs. Also had a 46-point game against CR Prairie. As a junior, he averaged 17.7 points and led Linn Mar to an undefeated season and the 2011 4-A state championship. earned both all-state and state tournament honors in three different seasons. Member of the honor roll in all four years. Graduated with better than a 4.0 grade point average.",
+            "personal": "Marcus Taylor Paige is the son of Ellis and Sherryl Paige. His sister plays basketball at the University of Wisconsin. Born on Sept. 11, 1993, in Cedar Rapids, Iowa. Has yet to declare a major."
+        }
+    },
+
+    {
+        "pk": 6,
+        "model": "roster.Player", 
+        "fields": {
+            "name": "Brice Johnson", 
+            "image": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/XG/XGZHRHQODFMOHTH.20130926152408.jpg",
+            "number": "11", 
+            "position": "F", 
+            "height": "6-9",
+            "weight": "210",
+            "year": "So.",
+            "hometown": "Orangeburg, S.C.",
+            "prep": "Won Gatorade South Carolina Boys Basketball Player of the Year honors as a junior and senior. Parade All-American. Averaged 25.4 points, 14.3 rebounds, 8.3 blocks and three assists per game as a senior. Led Edisto to a 15-5 record and the second round of the Class 2-A Tournament. Averaged 23 points, 15 rebounds and five blocks in 2011. Played for his dad at Edisto High School in Cordova, S.C. Played in the Jordan Brand Classic. Two-time state champion in the high jump. Also played one year as a wide receiver. Member of the National Honor Society and Fellowship of Christian Athletes.",
+            "personal": "Born Jonathan Brice Johnson on June 27, 1994, in Orangeburg, S.C. Son of Herman and Renee Johnson. Has yet to declare a major."
+        }
+    },
+        {
+        "pk": 7,
+        "model": "roster.Player", 
+        "fields": {
+            "name": "J.P. Tokoto", 
+            "image": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/DB/DBZHWLBGGXIEAKF.20130926152410.jpg",
+            "number": "13", 
+            "position": "F", 
+            "height": "6-5",
+            "weight": "200",
+            "year": "So.",
+            "hometown": "Menomonee Falls, Wisc.",
+            "prep": "Played for coach Dan Leffel at Menomonee Falls High School. Three-time first-team all-state selection. Two-time team captain. Averaged 24.6 points, 11.5 rebounds, 3.5 assists and 2.6 steals as a senior. Set a dozen school records, including career scoring, rebounding and steals. Career stats included 1,737 points and 1,014 rebounds. Set the school's single-game record with 48 points against Catholic Memorial. Averaged 21.2 points, 13.2 rebounds, 3.2 steals and 2.1 assists as a junior and earned Greater Metro Conference Player of the Year honors. Won the 2012 American Family Insurance Slam Dunk contest in New Orleans.",
+            "personal": "Born Jean-Pierre Tokoto on September 15, 1993, in Rockford, Ill. His parents are Trevor and Laurence Trimble. Played soccer until age 13, when he first began to play basketball. His grandfather, J.P. Tokoto, played for the Cameroon national soccer team. Undeclared major. Last name is pronounced TOE-kuh-toe."
+            
+        }
+    },
+    {
+        "pk": 8,
+        "model": "roster.Player", 
+        "fields": {
+            "name": "Desmond Hubert", 
+            "image": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/MG/MGFEKXJFLMHMJGW.20130926152408.jpg",
+            "number": "14", 
+            "position": "F", 
+            "height": "6-10",
+            "weight": "225",
+            "year": "Jr.",
+            "hometown": "Cream Ridge, N.J.",
+            "prep": "Played for Coach Jay Corby at New Egypt High School in New Jersey. Averaged 16 points, nine rebounds and six blocks per game. Led New Egypt a school-record 24 wins and a berth in the Central Jersey Group 1 Section championship game. Team captain. Played in the Capital Classic all-star game. Moved to Cream Ridge, N. J. from Winter Park, Fla. in 2006. Averaged 16.2 points, 10.8 rebounds and 9.1 blocks as a junior. Totaled over 1,500 points, 1,000 rebounds and 750 blocks in his career.",
+            "personal": "Desmond Jackson Hubert was born July 15, 1992, in Willingboro, N.J. Majoring in sociology."
+        }
+    },
+    {
+        "pk": 9,
+        "model": "roster.Player", 
+        "fields": {
+            "name": "Jackson Simmons", 
+            "image": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/PB/PBBRGLZCSYOAMKO.20130926152410.jpg",
+            "number": "21", 
+            "position": "F", 
+            "height": "6-7",
+            "weight": "225",
+            "year": "Jr.",
+            "hometown": "Webster, N.C.",
+            "prep": "The Western North Carolina Player of the Year in 2011 by the Asheville Citizen-Times. Associated Press all-state selection in 2011. Played for Coach Jimmy Cleaveland. Set the North Carolina high school record for career rebounds with 1,554 and was the leading scorer in Smoky Mountain High School history with 1,916 points. Averaged 25.4 points and 16.9 rebounds per game as a senior. Two-year team captain. Led Smoky Mountain to a 26-1 record and conference title. Shot 89 percent from the free throw line. Earned MVP honors with 19 points and 15 rebounds in the North Carolina East-West All-Star Game. Also played in the Jordan Brand Classic in Charlotte. Averaged 19.9 points and 12.5 rebounds as a junior. ",
+            "personal": "Son of Si and Cindi Simmons, both of whom teach at Smoky Mountain High. Both parents played basketball at Western Carolina University and Cindi is a member of the WCU Athletic Hall of Fame. Cindi also is a four-time state championship coach in both volleyball and basketball. Jackson had a grade point average of 4.2 and was a member of the National Honor Society. A member of the show choir that won three national championships. Took part in the school play in 2010-11. Majoring in exercise and sport science."
+        }
+    },
+    {
+        "pk": 10,
+        "model": "roster.Player", 
+        "fields": {
+            "name": "Isaiah Hicks", 
+            "image": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/ZE/ZEFEKVJVAHLVBIN.20130926152408.jpg",
+            "number": "22", 
+            "position": "F", 
+            "height": "6-8",
+            "weight": "220",
+            "year": "Fr.",
+            "hometown": "Oxford, N.C.",
+            "prep": "Associated Press Player of the Year in North Carolina in 2013. Earned Parade and McDonald's All-America honors. Most Valuable Player of the state playoffs after leading Webb to title. Played for coach Leo Brunelli. Scored 34 points, grabbed a championship game record 30 rebounds and blocked seven shots in 3-A title game victory over Statesville. Also played in Carolinas All-Star Basketball Classic. Played three seasons at Webb and his sophomore year at Body of Christ in Raleigh. Scored 30 or more points seven times as a senior. Averaged 22.9 points, 12.9 rebounds and 5.6 blocks last year. Played one year of football and competed in track and field for a season.",
+            "personal": "Born Isaiah Dwayne Hicks on July 24, 1994, in Oxford, N.C. Son of Thomas and Regina Hicks. Has yet to declare a major."
+        }
+    },
+    {
+        "pk": 11,
+        "model": "roster.Player", 
+        "fields": {
+            "name": "James Manor", 
+            "image": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/ZL/ZLZAJFNAWKUIASO.20130926152408.jpg",
+            "number": "30", 
+            "position": "F", 
+            "height": "6-6",
+            "weight": "220",
+            "year": "Sr.",
+            "hometown": "Carrboro, N.C.",
+            "prep": "Played four years of varsity basketball at Chapel Hill High School as a power forward. Named all-conference for the Carolina 6 Conference and all-district for district 6 as a senior. Also played two years of varsity lacrosse. Team captain of the basketball squad. Member of the National Honor Society.",
+            "personal": "James William Manor is the son of Jim and Linda Manor. Born on January 6, 1992, in Carrboro, N.C. Majoring in business administration."
+        }
+    },
+    {
+        "pk": 12,
+        "model": "roster.Player", 
+        "fields": {
+            "name": "Denzel Robinson", 
+            "image": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/LJ/LJZVWLQTZSOPKTR.20130926152409.jpg",
+            "number": "34", 
+            "position": "F", 
+            "height": "6-4",
+            "weight": "220",
+            "year": "Sr.",
+            "prep": "Played four years of varsity basketball at Chapel Hill High School for Paul Kieckbusch and Tod Morgan. Averaged 10.4 points, 6.8 rebounds and 2.3 assists per game as a senior. Two-time all-conference choice. Named third-team all-district as a junior. An academic all-conference selection.",
+            "hometown": "Chapel Hill, N.C.",
+            "personal": "Denzel Amir Robinson is the son of Steve and Lisa Robinson. His father is a longtime assistant to Roy Williams and former head coach at Tulsa and Florida State. His older brother played baseball at UNC and Brevard College. His younger sister plays volleyball and competes in Track and Field at Lenoir-Rhyne University. Born on March 20, 1991, in Lawrence, Kan. Majoring in Communication Studies."
+        }
+    },
+    {
+        "pk": 13,
+        "model": "roster.Player", 
+        "fields": {
+            "name": "Joel James", 
+            "image": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/XC/XCZRSRYHBHQCYDP.20130926152408.jpg",
+            "number": "42", 
+            "position": "F", 
+            "height": "6-4",
+            "weight": "280",
+            "year": "So.",
+            "hometown": "West Palm Beach, Fla.",
+            "prep": "Did not play organized basketball until his sophomore year of high school. Shed 60 pounds during his senior year as he improved on the court. Tried out for the U.S. U-18 National Team after high school. Played for coach Fred Ross at William T. Dwyer High School in Palm Beach Gardens, Fla. Averaged 15 points, 12.5 rebounds and 2.3 blocked shots per game and shot 63 percent from the floor as a senior. Played in the All-American Championship post-season all-star game in New Orleans. Attended the U.S. U-18 national team training camp in Colorado Springs in June 2012. Won a state championship as a junior.",
+            "personal": "Joel Njonjo James is the son of Cassandra Brown. Born on Jan. 22, 1994, in West Palm Beach, Fla. Majoring in history."
+        }
+    },
+    {
+        "pk": 14,
+        "model": "roster.Player", 
+        "fields": {
+            "image": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/LS/LSNNEJFCRRHIOZZ.20130926152409.jpg",
+            "name": "James Michael McAdoo", 
+            "number": "43", 
+            "position": "F", 
+            "height": "6-9",
+            "weight": "230",
+            "year": "Jr.",
+            "hometown": "Norfolk, Va.",
+            "prep": "The 2009 USA Basketball Male Athlete of the Year, the youngest player ever to receive that award. Averaged 16.8 points, 8.6 rebounds and 2.0 blocks to help Team USA win the gold medal at the 2009 FIBA Americas U16 Championship played in Argentina. In 2010 he won another gold medal after averaging 14.5 points, 7.9 rebounds and 1.9 blocks at the 2010 FIBA U17 World Championship in Germany. Attended Norfolk Christian High School, where he played for Coach Michael Allen. Led Norfolk Christian to consecutive state championships and earned Gatorade Player of the Year honors in Virginia in 2010 and 2011. Averaged 21.6 points and 8.1 rebounds as a senior and 22.5 points and 9.9 rebounds as a junior. First-team USA Today and third-team Parade All-America. Earned co-Most Valuable Player honors at both the McDonald's All-America Game in Chicago and the Jordan Brand Classic in Charlotte. Also played in the Nike Hoop Summit in Portland, Ore. Scored a career-high 52 points against Peninsula Catholic. Played football as a freshman. Honor roll student all four years. Went on a mission trip to Jamaica in 2008 and to Nicaragua in 2010. Member of the National Honor Society.",
+            "personal": "Born James Michael Ray McAdoo on Jan. 4, 1993, in Norfolk. Son of Ronnie and Janet McAdoo. Both parents played professional basketball overseas. His father is a member of Old Dominion University's Hall of Fame and played professionally in France, Spain and Japan. His sister played basketball at UNC Charlotte. Ronnie McAdoo is a second cousin of former Tar Heel All-America and Naismith Hall of Famer Bob McAdoo.  Majoring in history."
+        }
+    },
+    {
+        "pk": 15,
+        "model": "roster.Player", 
+        "fields": {
+            "name": "Wade Moody", 
+            "image": "http://image.cdnllnwnl.xosnetwork.com/pics33/400/FK/FKBJFUPITGROYBD.20130926152409.jpg",
+            "number": "55", 
+            "position": "G", 
+            "height": "6-0",
+            "weight": "175",
+            "year": "Sr.",
+            "hometown": "Mount Airy, N.C.",
+            "prep": " Played three years of varsity basketball at Mount Airy High School and twice earned all-conference honors under Coach Kevin Spainhour. Averaged 12 points and four assists per game for his career, including 20 ppg as a senior. Led Mount Airy to two conference championships. Also played a year of varsity baseball. Member of the National Honor Society and the Vocational Honor Society. Also involved in Young Life. Senior class president.",
+            "personal": "Robert Wade Moody is the son of Bob and Kathy Moody. Born on September 6, 1991, in Mount Airy, N.C. Majoring in Management and Society."
+        }
+    }
+]
