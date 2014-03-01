@@ -1,34 +1,46 @@
+@import url(static_media/css/bootstrap.css);
 
-      html,
-      body {
-        height: 100%;
-        /* The html and body elements cannot have any padding or margin. */
-      }
+body {
+  margin: 0;
+  background-image: url(http://fc03.deviantart.net/fs15/f/2007/078/e/9/Carolina_Argyle_by_amendolair.jpg)
+}
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: white;
+}
+.page-header {
+  padding-bottom: 0px;
+  padding-top: 4px;
+  margin: 40px 0 0px;
+  text-align: center;
+  background-image: url(argyle.png);
+}
+.page-header h1{
+  font-family: BebasNeue;
+  font-size: 105pt;
+}
+@font-face{
+  font-family: BebasNeue;
+  src: url(BebasNeue.otf);
+}
 
-      /* Wrapper for page content to push down footer */
-      #wrap {
-        min-height: 100%;
-        height: auto !important;
-        height: 100%;
-        /* Negative indent footer by it's height */
-        margin: 0 auto -60px;
-      }
+.navbar-default {
+    border-bottom: 1px solid #eee;
+}
 
-      /* Set the fixed height of the footer here */
-      #push,
-      #footer {
-        height: 60px;
-      }
-      #footer {
-        background-color: #f5f5f5;
-      }
+.rowplayer {
+  width: auto;
+}
 
-      /* Lastly, apply responsive CSS fixes as necessary */
-      @media (max-width: 767px) {
-        #footer {
-          margin-left: -100px;
-          margin-right: -100px;
-          padding-left: 100px;
-          padding-right: 100px;
-        }
-      }
+.rowplayer h2{
+  font-family: BebasNeue;
+  font-size: 40pt;
+  color: #5C8CBB;
+  text-indent: 52px;
+}
+.playerinfo li{
+  line-height: 20pt;
+}
