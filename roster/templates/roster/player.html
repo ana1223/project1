@@ -4,17 +4,19 @@
 <div class="container">
 <div class="row">
 <div class="rowplayer">
+    <ul>
     <h2>{{ player.name }}</h2>
+    </ul>
 </div>
 </div>
     </div>
 <div class="row">
     <div class="col-md-4">
-        <ul>
+    <ul>
             <img src= "{{ player.image }}"/>
-        </ul>
+    </ul>
     </div>
-    <div class="col-md-8">
+    <div class="col-md-7">
         <div class="list-unstyled">
             <li><b>Number:</b> {{ player.number }}</li>
             <li><b>Position:</b> {{ player.position }}</li>
@@ -28,5 +30,6 @@
     </div>
 </div>
 </div>
+
 </div>
 {% endblock %}
